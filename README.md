@@ -5,7 +5,7 @@ Undergraduate | BICT (Hons) in Software System, University of Kelaniya.
 - Looking to collaborate on QA/QE projects to build real-world experience
   
 - 📫 How to reach me dilranganaoshani2000@gmail.com
-  Connect with me:
+- Connect with me:
    linkedin.com/in/oshani-dilrangana-64892b263
  
 
